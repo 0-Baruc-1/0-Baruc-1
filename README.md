@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0-Baruc-1
-- 👀 I’m interested in progamming languahes
+- 👀 I’m interested in progamming languages
 - 🌱 I’m currently learning Electronic Enginering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
